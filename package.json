@@ -1,0 +1,25 @@
+{
+  "name": "telegram-bot-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickKrsk/telegram-bot-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickKrsk/telegram-bot-example/issues"
+  },
+  "homepage": "https://github.com/NickKrsk/telegram-bot-example#readme"
+}
